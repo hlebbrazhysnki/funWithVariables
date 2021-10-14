@@ -1,0 +1,22 @@
+var a = 5;
+var b = 10;
+var c = 15;
+var d = 20;
+var e = 25;
+var f = 30;
+var g = 35;
+var h = 40;
+var i = 45;
+var j = 50;
+
+console.log(a+b);
+console.log(b+c);
+console.log(c-d);
+console.log(d-e);
+console.log(e/f);
+console.log(g/h);
+console.log(i/j);
+console.log(a*g);
+console.log(j*g);
+console.log("b--d");
+console.log("e++j");
